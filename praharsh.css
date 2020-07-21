@@ -41,3 +41,11 @@ a:hover{
 	background:#61ecd2;
 	transition: 0.5s;
 }
+@viewport{
+	zoom:1.0;
+	width:extend-to-zoom;
+}
+@-ms-viewport{
+	width:extend-to-zoom;
+	zoom:1.0;
+}
