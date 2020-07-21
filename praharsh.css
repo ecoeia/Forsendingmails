@@ -22,15 +22,18 @@ a{
     color:black;
     background-color: lightgrey;
     font-weight: bold;
+    text-align: center;
   
-right:30%;
-top:45%;
+right:20%;
+left:20%;
+top:80%;
 }
 div{
-
+text-align: center;
 	padding: 20px;
 	position: absolute;
 	top:20%;
+	right:20%;
 	left:20%;
 	font-size:125%; 
 	border:solid 2px transparent;
